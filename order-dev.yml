@@ -5,8 +5,6 @@ eureka:
 
 
 spring:
-  application:
-    name: order
   rabbitmq:
     username: renph
     password: 123456
