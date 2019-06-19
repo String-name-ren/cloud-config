@@ -21,7 +21,7 @@ spring:
 server:
   port: 8181
 
-env: dev
+env: default
 
 mybatis:
   mapper-locations: classpath*:mybatis/*Mapper.xml
