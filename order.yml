@@ -1,19 +1,1 @@
-spring:
-  rabbitmq:
-    username: renph
-    password: 123456
-    virtual-host: /
-    addresses: 127.0.0.1:5672
-    publisher-confirms: true
-  datasource:
-    url: jdbc:mysql://139.196.106.189:3306/we_newrs?autoReconnect=true&amp;useUnicode=true
-    username: we_newrs_app
-    password: shuiXiang@2018
 
-server:
-  port: 8181
-
-env: default
-
-mybatis:
-  mapper-locations: classpath*:mybatis/*Mapper.xml
