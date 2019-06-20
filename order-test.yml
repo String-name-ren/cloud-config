@@ -24,4 +24,4 @@ server:
 mybatis:
   mapper-locations: classpath*:mybatis/*Mapper.xml
   
-env: testt34564334534
+env: test
