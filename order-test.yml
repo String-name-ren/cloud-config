@@ -18,9 +18,6 @@ spring:
     username: we_newrs_app
     password: shuiXiang@2018
 
-server:
-  port: 8181
-
 mybatis:
   mapper-locations: classpath*:mybatis/*Mapper.xml
   
